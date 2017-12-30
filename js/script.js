@@ -29,7 +29,7 @@ submit.onclick = function (e) {
 	}
 	if (input.value == "") {
 		input.value = "Required!!!";
-		input.style.border = "3px solid red";
+		input.style.border = "3px solid blue";
 	}
 	
 }
